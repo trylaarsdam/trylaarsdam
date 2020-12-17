@@ -1,6 +1,6 @@
 ### a python and nodejs dev
 
-Some cool stuff:
+Some cool stuff I've done:
 
 CPU Emulator with hardware connection - https://toddr.org/cpu.html
 
