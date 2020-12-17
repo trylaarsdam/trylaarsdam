@@ -1,4 +1,5 @@
 ### a python and nodejs dev
+with some embedded systems thrown in
 
 Some cool stuff I've done:
 
