@@ -3,7 +3,7 @@
 
 Some cool stuff I've done:
 
-CPU Emulator with hardware connection - https://toddr.org/Home.html#carousel_46bf
+CPU Emulator with hardware connection - https://toddr.org/#carousel_46bf
 
 Discord Scholastic bowl bot - https://scholastic.toddr.org
 
