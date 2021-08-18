@@ -1,5 +1,5 @@
-### a python and nodejs dev
-#### and occationally some embedded stuff
+### a cpp and nodejs dev
+#### and occationally some python
 
 Some cool stuff I've done:
 
