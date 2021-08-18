@@ -3,7 +3,7 @@
 
 Some cool stuff I've done:
 
-CPU Emulator with hardware connection - https://toddr.org/#carousel_46bf
+Custom CPU Emulator - https://toddr.org/#carousel_46bf
 
 Assignment Canvas - https://canvas.toddr.org
 
