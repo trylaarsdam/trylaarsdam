@@ -3,7 +3,7 @@
 
 Some cool stuff I've done:
 
-Custom CPU Emulator - https://toddr.org/#carousel_46bf
+Custom CPU Emulator - https://toddr.org/projects.html#:~:text=My%20Work-,CPU%20Emulator,-Windy%20City%20Labs
 
 Assignment Canvas - https://canvas.toddr.org
 
