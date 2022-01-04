@@ -1,5 +1,5 @@
 ### a cpp and nodejs dev
-#### and occasionally some python
+#### and occasionally some python + mobile app development
 
 Some cool projects I've worked on:
 
