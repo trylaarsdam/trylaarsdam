@@ -5,7 +5,7 @@ Some cool projects I've worked on:
 
 * Custom CPU Emulator - https://toddr.org/projects/cpu-emulator
 * Mayo Clinic BNEL eHealth System - https://www.mayo.edu/research/labs/bioelectronics-neurophysiology-engineering/overview
-* Launch Chicago (coming soon) - https://launchchicago.org
+* Launch Chicago LMS - https://toddr.org/projects/launch-chicago
 * Assignment Canvas (v2) - https://canvas.toddr.org
 * Argonne National Lab Gen 3 Soil Sensors - https://toddr.org/projects/anl-connect
 * Code Snippet Sharing - https://code.toddr.org
