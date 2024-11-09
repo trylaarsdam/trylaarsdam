@@ -2,7 +2,7 @@
 
 Some cool projects I've worked on:
 
-* Microsoft Excel https://toddr.org/projects/microsoft-summer-2024/
+* Microsoft Excel - https://toddr.org/projects/microsoft-summer-2024/
 * Coding Focused LMS (Turing Guild) - https://toddr.org/projects/turing-guild/
 * Mayo Clinic Embedded Real-Time Seizure Forecasting & Detection - https://toddr.org/projects/mayo-summer-2023/
 * Mayo Clinic BNEL eHealth System - https://toddr.org/projects/ehealth
